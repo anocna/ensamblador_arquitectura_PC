@@ -1,0 +1,3 @@
+Warning[205] C:\USERS\ADMINISTRADOR\DESKTOP\ENTRTEGA\EJ. 2-D  ANCONA ROMANO MATIAS\P2\P2.ASM 1 : Found directive in column 1. (include)
+Message[302] C:\USERS\ADMINISTRADOR\DESKTOP\ENTRTEGA\EJ. 2-D  ANCONA ROMANO MATIAS\P2\P2.ASM 37 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\ADMINISTRADOR\DESKTOP\ENTRTEGA\EJ. 2-D  ANCONA ROMANO MATIAS\P2\P2.ASM 39 : Register in operand not in bank 0.  Ensure that bank bits are correct.
